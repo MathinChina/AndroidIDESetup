@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script to install NDK into AndroidIDE
-# Author MrIkso
+# Author MathinChina
 
 install_dir=$HOME
 sdk_dir=$install_dir/android-sdk
