@@ -1,0 +1,30 @@
+"android_sdk": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-tools/r>
+    "cmdline_tools": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-tools>
+
+
+    "build_tools": {
+
+        "aarch64": {
+            "_33_0_3": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-too>
+            "_33_0_1": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-too>
+        },
+
+        "arm" : {
+            "_33_0_3": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-too>
+            "_33_0_1": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-too>
+        }
+    },
+
+
+    "platform_tools": {
+
+        "aarch64": {
+            "_33_0_3": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-too>
+            "_33_0_1": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-too>
+        },
+
+        "arm": {
+            "_33_0_3": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-too>
+            "_33_0_1": "https://ghproxy.com/https://github.com/AndroidIDEOfficial/androidide-too>
+        }
+    },
