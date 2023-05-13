@@ -24,13 +24,13 @@ For Chinese:
 
 对于中国人:
 
-<code>cd && pkg upgrade && pkg install wget && wget https://ghproxy.com/https://raw.githubusercontent.com/MathinChina/AndroidIDESetup/main/ndk-install.sh && ./ndk-install.sh</code>
+<code>cd && pkg upgrade && pkg install wget && wget https://ghproxy.com/https://raw.githubusercontent.com/MathinChina/AndroidIDESetup/main/ndk-install.sh && bash ./ndk-install.sh</code>
 
 For foreigners:
 
 对于外国人:
 
-<code>cd && pkg upgrade && pkg install wget && wget https://github.com/MrIkso/AndroidIDE-NDK/raw/main/ndk-install.sh && chmod +x ndk-install.sh && ./ndk-install.sh</code>
+<code>cd && pkg upgrade && pkg install wget && wget https://github.com/MrIkso/AndroidIDE-NDK/raw/main/ndk-install.sh && chmod +x ndk-install.sh && bash ./ndk-install.sh</code>
   
 Please reserve at least 6G of space.
 
