@@ -25,7 +25,7 @@ download_cmake() {
 	# download cmake
 	cmake_version=$1
 	echo "Downloading cmake-$cmake_version..."
-	wget https://ghproxy.com/https://github.com/MrIkso/AndroidIDE-NDK/releases/download/cmake/cmake-"$cmake_version"-android-aarch64.zip --no-verbose --show-progress -N
+	wget https://gh.api.99988866.xyz/https://github.com/MrIkso/AndroidIDE-NDK/releases/download/cmake/cmake-"$cmake_version"-android-aarch64.zip --no-verbose --show-progress -N
 	installing_cmake "$cmake_version"
 }
 
@@ -139,7 +139,7 @@ fi
 
 # download NDK
 echo "Downloading NDK $ndk_ver_name..."
-wget https://ghproxy.com/https://github.com/jzinferno2/termux-ndk/releases/download/v1/$ndk_file_name --no-verbose --show-progress -N
+wget https://gh.api.99988866.xyz/https://github.com/jzinferno2/termux-ndk/releases/download/v1/$ndk_file_name --no-verbose --show-progress -N
 
 if [ -f "$ndk_file_name" ]; then
 	echo "Unziping NDK $ndk_ver_name..."
