@@ -27,7 +27,7 @@ download_cmake() {
 	# download cmake
 	cmake_version=$1
 	echo "Downloading cmake-$cmake_version..."
-	wget https://ghproxy.com/https://github.com/MrIkso/AndroidIDE-NDK/releases/download/cmake/cmake-"$cmake_version"-android-aarch64.zip --no-verbose --show-progress -N
+	wget https://github.com/MrIkso/AndroidIDE-NDK/releases/download/cmake/cmake-"$cmake_version"-android-aarch64.zip --no-verbose --show-progress -N
 	installing_cmake "$cmake_version"
 }
 
